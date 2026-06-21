@@ -1,5 +1,23 @@
-*.env
-*.key
-*.pem
-secrets/
-.env*
+# Virtual Environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+
+# Build
+dist/
+build/
