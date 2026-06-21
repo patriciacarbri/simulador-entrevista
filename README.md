@@ -1,4 +1,4 @@
-# Simulador de Entrevista — TTS
+# Simulador de Entrevista - TTS
 
 Converte um roteiro de entrevista em áudio MP3 com duas vozes distintas: uma para o jornalista e outra para a especialista. As pausas entre falas e dentro das respostas mais longas são geradas automaticamente.
 
